@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @whitebeard10
+- 👋 Hi, I’m @AvinashCchhetri
 - 👀 I’m interested in anime
 - 🌱 I’m currently learning web dev
 - 📫 How to reach me: linkedin->Avinash Chhetri
