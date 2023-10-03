@@ -9,3 +9,7 @@
 🔭 Continuous Learner: The tech universe is ever-evolving, and I'm a perpetual student. Expect to find my experiments, challenges, and collaborations as I push the boundaries of what's possible.
 
 🌐 Connect with Me: Join me on this exciting journey by exploring my repositories, sharing insights, and collaborating on projects. Let's shape the future of technology together!
+
+
+
+[![An image of @whitebeard10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/whitebeard10)](https://holopin.io/@whitebeard10)
