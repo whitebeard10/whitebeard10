@@ -13,3 +13,9 @@
 
 
 [![An image of @whitebeard10's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/whitebeard10)](https://holopin.io/@whitebeard10)
+
+<div style="text-align: center;">
+  <h2 style="color: #007acc;">📈 GitHub Stats</h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=wHITEBEARD10&show_icons=true&theme=radical&count_private=true&hide=issues,contribs" alt="GitHub Stats" style="max-width: 100%; margin: 0 auto; text-align:center; margin-left:50px;">
+</div>
+
